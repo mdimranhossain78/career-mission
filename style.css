@@ -35,7 +35,7 @@ body{
 .btn{
     border: solid #FFD447 2px;
     padding: 17px 17px;
-    background-image: linear-gradient(to right,#FFA500,#FFD447);
+    background: linear-gradient(to right,#FFA500,#FFD447);
     font-size: 20px;
     font-weight: semibold;
     box-shadow: .5px 2px 12px #262a35;
@@ -44,7 +44,7 @@ body{
     transition: .5s;
 }
 .btn:hover{
-    background-image: linear-gradient(#0D1321);
+    background: linear-gradient(#0D1321);
     cursor: pointer;
     color:#fff
 }
@@ -152,7 +152,7 @@ color:#4e5462;
  }
 .target-card{
 
-    background-image: linear-gradient(#E6EDF9, #9DE5FF);
+    background: linear-gradient(#E6EDF9, #9DE5FF);
     padding:40px;
     width: 300px;
     border-radius: 16px;
